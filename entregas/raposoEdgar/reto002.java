@@ -3,7 +3,7 @@ public class reto002 {
 
         final int DAÑO_ESPADA = 2;
         int vidaGuerrero = 20;
-        final double PORCENTAJE_EXITO_GUERRERO = 0.5;
+        final double PORCENTAJE_EXITO_GUERRERO = 1;
 
         final int DAÑO_MORDIDA = 4;
         int vidaVampiro = 10;
